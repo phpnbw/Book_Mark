@@ -1,0 +1,10 @@
+<?php
+define("DB_HOST",'127.0.01');//数据库配置
+define("DB_USERNAME",'bookmark');
+define("DB_PASSWORD",'bookmark');
+define("DB_NAME",'bookmark');
+define("DB_SLAVE_HOST",'127.0.0.1');//数据库配置
+define("DB_SLAVE_USERNAME",'bookmark');
+define("DB_SLAVE_PASSWORD",'bookmark');
+define("DB_SLAVE_NAME",'bookmark');
+?>
